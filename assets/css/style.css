@@ -70,7 +70,7 @@ nav {
 .jumbo-cam {
      position: absolute;
      right: 200px;
-     bottom: 100px;
+     bottom: 50px;
      z-index: -1;
      overflow: hidden;
 }
