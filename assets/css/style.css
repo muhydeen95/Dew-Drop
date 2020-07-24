@@ -337,6 +337,11 @@ footer {
 }
 
 @media only screen and (max-width: 992px) {
+    .nav-item {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    
     .jumbotron h1 {
         font-size: 11rem;
     }
